@@ -9,7 +9,7 @@ Run from command line:
 
 >> python create_map.py > map_name.svg
 
-![alt tag](https://raw.github.com/nbilenko/cloropleth_viz/master/executed_prisoners_TX.png)
+![alt tag](https://raw.github.com/nbilenko/cloropleth_viz/master/executed_prisoners_TX.png) { width: 200px; }
 
 The code can be adapted for creating a cloropleth map of U.S. counties (though the visualization is Texas-specific).
 It is based on a tutorial by Nathan Yau of Flowing Data (flowingdata.com):
