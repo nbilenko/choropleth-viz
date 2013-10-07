@@ -5,7 +5,7 @@ import xlrd
 
 # This is a visualization of number and predominant race of executed offenders in Texas counties between 1982 and 2013. 
 
-# The code can be adapted for creating a cloropleth map of U.S. counties (though the visualization is Texas-specific).
+# The code can be adapted for creating a choropleth map of U.S. counties (though the visualization is Texas-specific).
 # It is based on a tutorial by Nathan Yau of Flowing Data (flowingdata.com):
 # http://flowingdata.com/2009/11/12/how-to-make-a-us-county-thematic-map-using-free-tools/
 
@@ -55,7 +55,7 @@ for row in reader:
 	except:
 		pass
 
-# Load the cloropleth svg and load all paths using BeautifulSoup:
+# Load the county svg and load all paths using BeautifulSoup:
 svg = open('counties.svg', 'r').read()
 soup = BeautifulSoup(svg, selfClosingTags=['defs','sodipodi:namedview'])
 paths = soup.findAll('path')

@@ -11,7 +11,7 @@ Run from command line:
 
 <img src="https://raw.github.com/nbilenko/cloropleth_viz/master/executed_offenders_TX.png" alt="Executed offenders in Texas" width="500">
 
-The code can be adapted for creating a cloropleth map of U.S. counties (though the visualization is Texas-specific).
+The code can be adapted for creating a choropleth map of U.S. counties (though the visualization is Texas-specific).
 It is based on a tutorial by Nathan Yau of Flowing Data (flowingdata.com):
 http://flowingdata.com/2009/11/12/how-to-make-a-us-county-thematic-map-using-free-tools/
 
