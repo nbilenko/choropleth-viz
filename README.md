@@ -1,7 +1,13 @@
 cloropleth_viz
 ==============
 
-This is a visualization of number and predominant race of executed offenders in Texas counties between 1982 and 2013. 
+This code is for making a visualization of number and predominant race of executed offenders in Texas counties between 1982 and 2013. 
+
+Written by Natalia Y. Bilenko, (c) 2013
+
+Run from command line:
+
+>> python create_map.py > map_name.svg
 
 The code can be adapted for creating a cloropleth map of U.S. counties (though the visualization is Texas-specific).
 It is based on a tutorial by Nathan Yau of Flowing Data (flowingdata.com):
