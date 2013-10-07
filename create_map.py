@@ -72,7 +72,7 @@ colors = ["#00BF2F", "#002FBF", "#BF3700"]
 # Copy the path style copied from the svg file manually, replace stroke, fill, and fill-opacity with variables to be filled in:
 path_style = 'font-size:12px;fill-rule:nonzero;stroke:%s;stroke-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;marker-start:none;stroke-linejoin:bevel;fill:%s;fill-opacity:%s'
 
-# Color the counties based on predominant race executed, and determine opacity by number of executed prisoners:
+# Color the counties based on predominant race executed, and determine opacity by number of executed offenders:
 for p in paths:
     if p['id'] not in ["State_Lines"]: # Preserve state lines.
         try:
