@@ -19,6 +19,6 @@ Texas Department of Criminal Justice:
 <a href="http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html">Executed Offenders in Texas</a>
 
 Other resources used:
-US FIPS Codes (<a href="http://www.schooldata.com/pdfs/US_FIPS_Codes.xls">Source</a>)
+US FIPS Codes (<a href="http://www.schooldata.com/pdfs/US_FIPS_Codes.xls">Source</a>)<br>
 Wikimedia US county svg map (<a href="http://commons.wikimedia.org/wiki/File:USA_Counties_with_FIPS_and_names.svg">Source</a>)
 <a href="http://colorbrewer2.org/">ColorBrewer</a>
