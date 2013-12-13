@@ -1,4 +1,4 @@
-choropleth_viz
+choropleth-viz
 ==============
 
 This code is for making a visualization of number and predominant race of executed offenders in Texas counties between 1982 and 2013. 
