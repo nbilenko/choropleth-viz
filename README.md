@@ -12,14 +12,13 @@ Run from command line:
 <img src="https://raw.github.com/nbilenko/cloropleth_viz/master/executed_offenders_TX.png" alt="Executed offenders in Texas" width="500">
 
 The code can be adapted for creating a choropleth map of U.S. counties (though the visualization is Texas-specific).
-It is based on a tutorial by Nathan Yau of Flowing Data (flowingdata.com):
-http://flowingdata.com/2009/11/12/how-to-make-a-us-county-thematic-map-using-free-tools/
+It is based on a <a href="http://flowingdata.com/2009/11/12/how-to-make-a-us-county-thematic-map-using-free-tools/">tutorial</a> by Nathan Yau of <a href="http://flowingdata.com">Flowing Data</a>.
 
 Data source:
-Texas Department of Criminal Justice
-http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html
+Texas Department of Criminal Justice:
+<a href="http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html">Executed Offenders in Texas</a>
 
 Other resources used:
-US FIPS Codes (Source: http://www.schooldata.com/pdfs/US_FIPS_Codes.xls)
-Wikimedia US county svg map (Source: http://commons.wikimedia.org/wiki/File:USA_Counties_with_FIPS_and_names.svg)
-ColorBrewer (http://colorbrewer2.org/)
+US FIPS Codes (<a href="http://www.schooldata.com/pdfs/US_FIPS_Codes.xls">Source</a>)
+Wikimedia US county svg map (<a href="http://commons.wikimedia.org/wiki/File:USA_Counties_with_FIPS_and_names.svg">Source</a>)
+<a href="http://colorbrewer2.org/">ColorBrewer</a>
